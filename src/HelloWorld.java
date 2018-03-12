@@ -3,9 +3,9 @@ public class HelloWorld {
         AnotherClass anotherClass = new AnotherClass();
         MyMathClass myMathClass = new MyMathClass();
 
-        int numb1 = 2;
-        int numb2 = 8;
-        String name = "Shilpa";
+        int numb1 = 4;
+        int numb2 = 5;
+        String name = "Change the string name";
 
         System.out.println("hello Shilpa");
         System.out.println("Good Morning");
